@@ -1,0 +1,580 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 14px;
+	font-family: Arial;
+}
+
+.containerr {
+  	width: 81.5%;
+  	margin-left: 18.5%;
+  	padding-left: 15px;
+	padding-right: 15px;
+}
+.banner1 {
+	height: 44px;
+}
+.bannertong {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	z-index: -1;
+	width: 100%;
+}
+
+
+/*RESPONSIVE */ 
+@media only screen and (max-width: 1175px) {
+  body .cach25 {
+    margin-right: 10px;
+  }
+}
+@media only screen and (min-width: 2000px) {
+  body .spnho {
+	border: 1px solid #eee;
+	padding-right: 5px;
+	padding-bottom: 40px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MENU 1 */
+.menu1 {
+	background-color: rgb(74,144,225);
+	color: black;
+}
+i {
+	font-style: normal;
+}
+.logo {
+	margin-right: 5px;
+}
+.xemgia {
+	font-size: 10px;
+	color: rgb(186,225,245);
+}
+.tp {
+	font-size: 11px;
+	margin-right: 39px;
+	font-weight: bolder;
+}
+.boxxg {
+	background-color: rgb(40,120,215);
+	height: 35px;
+	margin-top: 7px;
+	border-radius: 5px;
+	width: 155px;
+	line-height: 12px;
+	padding-left: 5px;
+	padding-top: 3px;
+	margin-right: 10px;
+}
+button {
+	border: 0;
+	color: black;
+}
+.menu1 button {
+	background-color: rgb(40,120,215);
+	border: 0;
+	color: white;
+}
+a {
+	text-decoration: none;
+}
+.menu1 a {
+	color: white;
+}
+.menu1 a:hover {
+	text-decoration: none;
+	color: white;
+}
+.colorbl {
+	color: #288AD6;
+}
+.modalbtn {
+	width: 100%;
+	height: 40px;
+	background-color: rgb(250,121,18);
+	border-radius: 5px;
+	padding: 5px 0 5px 0;
+}
+.bantimgi {
+	height: 35px;
+	margin-top: 7px;
+	border-radius: 5px;
+	width: 410px;
+	padding-left: 5px;
+	padding-top: 1px;
+	margin-right: 10px;
+	border: 1px solid white;
+	margin-right: 20px;
+}
+.cacht15 {
+	margin-top: 15px;
+}
+.cachtr10 {
+	margin-left: 10px;
+}
+.cachtr20 {
+	margin-left: 20px;
+}
+.cachtr15 {
+	margin-left: 15px;
+}
+.cachtr25 {
+	margin-left: 25px;
+}
+.cachtr30 {
+	margin-left: 30px;
+}
+.cacht5 {
+	margin-top: 5px;
+}
+.cach5 {
+	margin-right: 5px;
+}
+.cach10 {
+	margin-right: 10px;
+}
+.cach20 {
+	margin-right: 20px;
+}
+.cach30 {
+	margin-right: 30px;
+}
+.cach40 {
+	margin-right: 40px;
+}
+.cach75 {
+	margin-right: 75px;
+}
+.cach25 {
+	margin-right: 25px;
+}
+.lsmh {
+	font-size: 12px;
+	padding-top: 5px;
+}
+.giohang {
+	height: 25px;
+	margin-top: 10px;
+}
+.sdt {
+	font-weight: bolder;
+	font-size: 16px;
+	line-height: 15px;
+	padding-top: 8px;
+}
+.tongdai {
+	font-weight: normal;
+	font-size: 12px;
+	color: rgb(186,225,245);
+}
+
+/* MENU2 */
+.menu2 {
+	background-color: white;
+	color: black;
+} 
+.menu2 button{
+	background-color: white;
+	padding: 15px 5px 15px 5px;
+	border-left: 1px solid #BDBDBD;
+	border-right: 1px solid #BDBDBD;
+}
+.menu2 button span {
+	font-weight: bolder;
+	font-size: 15px;
+	margin-right: 17px;
+}
+.menu2 button i {
+	font-weight: bolder;
+	font-size: 15px;
+}
+.menu2 hr {
+	display: inline;
+	text-align: right;
+	border: 1px solid #eee;
+	border-width: thin;
+	height: 20px;
+}
+.menu2 .dropdown a:hover {
+	font-weight: bolder;
+	text-decoration: none;
+	color: #288AD6;
+}
+.menu2 a {
+	color: black;
+}
+.menu2 .dropdown .dropdown-menu .dropdown-item a {
+	font-size: 14px;
+}
+.menu2 button:hover .dropdown-menu{
+	display: block;
+	margin-top: 0;
+}
+.dmxmenu2 img {
+	height: 15px;
+}
+.dmxmenu2 span {
+	color: #32973A;
+}
+.bhx {
+	font-style: italic;
+}
+.menu2 a:hover {
+	text-decoration: none;
+}
+.xanh {
+	font-weight: bold;
+}
+.dmxmenu2 {
+	padding: 15px 5px 15px 5px;
+}
+
+
+
+/*BODY */ 
+.cacht10 {
+	margin-top: 10px;
+}
+.cachtr5 {
+	margin-left: 5px;
+}
+.cacht20 {
+	margin-top: 20px;
+}
+.cach15 {
+	margin-right: 15px;
+}
+.left {
+	background-color: white;
+}
+.body {
+	width: 100%;
+	margin-left: 18.5%;
+}
+.khung {
+	border: 1px solid black;
+}
+
+.tieude h4 {
+	font-weight: bold;
+	padding: 20px 0 20px 0px;
+}
+.tieude a:hover {
+	text-decoration: none;
+}
+.bold {
+	font-weight: bold;
+}
+#red {
+	padding: 5px 7px 5px 7px;
+	color: white;
+	background-color: rgb(239,94,93);
+	border-radius: 5px;
+}
+.orange {
+	color: rgb(227,112,29);
+	font-weight: bold;
+}
+#banchay {
+	padding: 5px;
+	background-color: #288AD6;
+	color: white;
+	border-radius: 5px;
+}
+#gia {
+	border: 1px solid black;
+	border-radius: 5px;
+	color: #6E6E6E;
+	padding: 5px;
+}
+.left .row .tieude a {
+	color: black;
+}
+.left .row .tieude a:hover {
+	text-decoration: none;
+	color: none;
+}
+.tragop {
+    background-color: #fed700;
+    color: black;
+    border: 1px;
+    font-size: 11px;
+    padding: 1px 7px 1px 7px;
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.bch {
+	border: 1px solid #DF0101;
+    color: #DF0101;
+    font-size: 11px;
+    padding: 1px 7px 1px 7px;
+    border-radius: 3px;
+}
+.price {
+    color: #DD0000;
+    padding: 0px 0px 5px 5px;
+}
+.price strong {
+	font-size: 16px;
+}
+.promo {
+    font-size: 12px;
+    padding: 5px 0px 0px 5px;
+}
+.spnho h3 {
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 5px;
+    margin-top: 5px;
+    line-height: 20px;
+}
+.price span {
+    color: black;
+}
+.danhgia img {
+    height: 15px;
+    width: 80px;
+    float: left;
+}
+.danhgia span {
+	color: #848484;
+	font-size: 12px;
+}
+.imgsanpham {
+	width: 214px;
+	height: 214px;
+}
+#dienthoai h3 {
+	font-size: 14px;
+}
+.spnho {
+	border: 1px solid #eee;
+	padding-right: 5.8px;
+	padding-bottom: 40px;
+}
+li {
+	list-style-type: none;
+}
+.icon {
+    height: 20px;
+    float: left;
+}
+.text {
+    font-size: 11px;
+    text-align: center;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.sieusale {
+    height: 20px;
+    width: 90px;
+    background-color: #dd260c;
+    color: white;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+.sanpham a:hover {
+	text-decoration: none;
+	color: black;
+}
+.sanpham a {
+	color: black;
+}
+
+
+
+/* RIGHT */
+.right{
+	background-color: white;
+	color: black;
+}
+.right a {
+	color: #4A90E2;
+}
+.right h5 {
+	font-size: 15px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+.logos {
+	height: 35px;
+	width: 80px;
+	padding-bottom: 5px;
+}
+.lg {
+	height: 35px;
+}
+.right a:hover {
+	text-decoration: none;
+	color: none;
+}
+.pdt10 {
+	padding-top: 10px;
+}
+.pdr10 {
+	padding-right: 10px;
+}
+.pdr20 {
+	padding-right: 20px;
+}
+.wrapper {
+	width: 100%;
+	display: flex;
+}
+.wrapper .left {
+	width: 48%;
+}
+.wrapper .right {
+	width: 48%;
+}
+.kieutu {
+	height: 50px;
+}
+.nganda {
+	margin-right: 37px;
+}
+.margin-right {
+	text-align: center;
+	font-size: 11px;
+	margin-right: 10px;
+}
+
+
+/* HET SAN PHAM */
+.xemthem {
+	background-color: white;
+	padding: 10px 130px 10px 130px;
+	color: #4A90E2;
+	border-radius: 5px;
+}
+.xemthem:hover {
+	background-color: #288AD6;
+	color: white;
+	text-decoration: none;
+}
+.tulanh {
+	padding: 10px 38px 0 5px;
+	color: #4A90E2;
+}
+.loiichtmx {
+	background-color: white;
+	border: 1px solid #32973A;
+	height: 63px;
+	border-radius: 5px;
+}
+.blue {
+	color: #4A90E2;
+}
+.loiich {
+	text-align: center;
+	color: white;
+	background-color: #32973A;
+	font-weight: bolder;
+	border-radius: 5px;
+	padding: 10px 5px 10px 5px;
+}
+.colorgr {
+	color: #32973A;
+	font-weight: bold;
+}
+.pdicon {
+	padding: 10px 10px 10px 5px;
+}
+.pdwithicon {
+	padding: 10px 40px 10px 0;
+}
+.bi-credit-card-2-back {
+	font-size: 25px;
+	color: #32973A;
+}
+.bi-percent {
+	font-size: 25px;
+	color: #32973A;
+}
+.bi-file-earmark-zip {
+	font-size: 25px;
+	color: #32973A;
+}
+.bi-cash {
+	font-size: 25px;
+	color: #32973A;
+}
+.loiichtmx hr {
+	display: inline;
+	text-align: right;
+	border: 1px solid #32973A;
+	border-width: thin;
+	height: 30px;
+}
+.banchuaxem h4 {
+	font-weight: bold;
+	font-size: 16px;
+	padding: 20px 0 20px 20px;
+}
+.banchuaxem {
+	background-color: white;
+}
+.banchuaxem a {
+	color: #288AD6;
+}
+.banchuaxem a:hover {
+	text-decoration: none;
+}
+.banchuaxem img {
+	padding: 50px;
+}
+.top10 {
+	padding: 50px 0 10px 10px;
+}
+.timhieu {
+	padding: 10px 0 10px 10px;
+}
+
+
+
+
+
+
+
+/* FOOTER */ 
+footer {
+	background-color: white;
+}
+footer ul li {
+	padding: 5px;
+}
+.black {
+	color: black;
+	font-weight: bold;
+}
+footer a:hover {
+	text-decoration: none;
+	color: black;
+}
+footer a {
+	color: #288AD6;
+}
